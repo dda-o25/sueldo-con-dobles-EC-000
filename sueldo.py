@@ -5,8 +5,8 @@ asi como tambien las horas extras calculadas despues de la hora numero 48 son co
 
 
 # Entradas
-horas_trabajadas = int(input())
-tarifa_hora = int(input())
+horas_trabajadas = input()
+tarifa_hora = input()
 
 # Proceso
 if horas_trabajadas > 48:
