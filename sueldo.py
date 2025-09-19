@@ -19,6 +19,6 @@ else:
     sueldo_total = horas_trabajadas * tarifa_hora
 
 # Salidas
-print(int(horas_extra))
-print(int(pago_extra))
-print(int(sueldo_total))
+print(horas_extra)
+print(pago_extra)
+print(sueldo_total)
